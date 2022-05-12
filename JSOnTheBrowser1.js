@@ -52,4 +52,4 @@ const CSSselectorall = document.querySelectorAll(".apple");
 console.log(CSSselectorall)
 
 /* getElementsByClassName와 비슷. 모든 .apple에 해당하는 class 속성값 
-가져옴. 
+가져옴. */
