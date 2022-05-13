@@ -45,4 +45,8 @@ else에 담으면 된다.
 5. 함수 선포가 끝난 후 newcolor 변수 지정 
 why? let을 사용했기 때문에 update가 가능하다 orange, blue 
 6. 마지막에 h1.style.color = newColor; 는 update 수정이 가능하다는 것을 
-선포. */
+선포. */ 
+
+//Step 1. find the element  -> const h1 = document.querySelector("div.hello:first-child h1");
+//Step 2. listen for an event -> h1.addEventListener("click", ChangeClickColor); 
+//Step 3. react to that event -> function (){} 
