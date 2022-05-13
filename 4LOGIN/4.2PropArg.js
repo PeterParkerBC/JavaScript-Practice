@@ -17,7 +17,7 @@ function onLoginSubmit(event) {
     1. event code는 먼저 우리의 function을 찾는다 
     2. event("submit")을 찾는다 
     3. .addEventListener"submit" event는 이미 ()버튼을 default로 누른다 
-    4. Event({정보}) 함께 function에게 전달
+    4. Event({object정보}) 함께 function에게 전달
     *  그래서, function뒤에 () X
     5. argument(매개변수)는 그 데이터를 받는다 
     6. 매개변수를 함수 안으로 넣는다 
