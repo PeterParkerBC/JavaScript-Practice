@@ -26,9 +26,11 @@ if (username === "") {
 loginButton.addEventListener("click", onClickButton);
 
 //value = 값 (input안의 value 값이다)
-////"dir check할때는 쌍따운표 x"
-/*
-1. 혹시 사용자가 아무것도 안쓸 경우, alert을 통해 이름을 써달라고 해보자.
-2. 만약 15자 보다 길면 alert "your name is too long"
-*/
- 
+//"dir check할때는 쌍따운표 x"
+
+//1. 혹시 사용자가 아무것도 안쓸 경우, alert을 통해 이름을 써달라고 해보자.
+//2. 만약 15자 보다 길면 alert "your name is too long"
+
+
+
+
